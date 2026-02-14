@@ -2,9 +2,10 @@
   "name": "swe363-portfolio",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./css/styles.css -o ./css/output.css --watch"
   },
   "keywords": [],
   "author": "",
