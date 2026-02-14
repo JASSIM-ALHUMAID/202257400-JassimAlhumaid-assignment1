@@ -4,6 +4,7 @@
 
 - **Google Stitch**: Used for initial website design and conceptualization.
 - **AI Assistant**: Assisted with implementation, refinement, and troubleshooting.
+- **GitHub Copilot**: Provided intelligent auto-completion and code suggestions throughout development.
 
 ## Usage Details
 
@@ -20,3 +21,10 @@
 
 - Implemented the content structure based on the design.
 - AI provided significant help in making the section responsive, specifically addressing overflow issues on mobile devices and ensuring the layout adapts smoothly across different screen sizes.
+
+### Projects Section
+
+- **Icon Selection**: AI assistance in choosing appropriate Lucide icons for each project (layout for portfolio, shopping-cart for job tracker, check-square for task manager, credit-card for expense tracker).
+- **Color Coordination**: AI helped select matching color schemes for project icons and hover states (blue, purple, green, orange).
+- **Layout Consistency**: AI guidance on maintaining consistent card structure and responsive grid layout.
+- **GitHub Copilot Integration**: Utilized auto-completion for repetitive HTML patterns and CSS class generation, significantly speeding up development.
