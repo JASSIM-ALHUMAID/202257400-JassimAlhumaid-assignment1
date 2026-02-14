@@ -86,7 +86,7 @@ For detailed AI usage information, see [docs/ai-usage-report.md](docs/ai-usage-r
 ## 📱 Live Deployment
 
 The portfolio is deployed and available at:
-- **GitHub Pages**: [https://jassim-alhumaid.github.io/SWE363-portfolio/](https://jassim-alhumaid.github.io/SWE363-portfolio/)
+- **GitHub Pages**: (https://jassim-alhumaid.github.io/202257400-JassimAlhumaid-assignment1)
 
 ## 🙏 Acknowledgments
 
