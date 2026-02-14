@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+@theme {
+    /* Core Brand Colors */
+    --color-primary: #101322;
+    --color-blob: #151e4b;
+    --color-foreground: #d1d5db;
+    --color-gray: #9ca3af;
+    --color-blue:#5161f0;
+    --color-purple:#c5a3f7;
+}
+
+.liner-gradient-bg {
+    background-image: linear-gradient(to right, var(--color-blue), var(--color-purple));
+    color: transparent;
+    background-clip: text;
+}
